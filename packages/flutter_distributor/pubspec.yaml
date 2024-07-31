@@ -21,6 +21,7 @@ dependencies:
   flutter_app_builder: ^0.4.5
   flutter_app_packager:
     git:
+      ref: main
       url: https://github.com/canxin121/flutter_distributor
       path: packages/flutter_app_packager
   flutter_app_publisher: ^0.4.5
